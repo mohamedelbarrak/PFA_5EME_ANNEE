@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Smart Delivery Manager</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_username">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="UserName">username</string>
+    <string name="appnme"><u>Smart Shopphing App</u></string>
+    <string name="appnme1"><u>Smart Delivery App</u></string>
+    <string name="appregi"><u>Registration</u></string>
+    <string name="PassWord">password</string>
+    <string name="ConPassWord">Confirm password</string>
+    <string name="nawm">FullName</string>
+    <string name="MoNo">Mobile No</string>
+    <string name="Add">Address</string>
+    <string name="dob">DOB</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="pin">Pin Code</string>
+    <string name="nav_reg"> <u>For Registration?</u> </string>
+    <string name="nav_login"> <u>Already Register?</u> </string>
+</resources>
